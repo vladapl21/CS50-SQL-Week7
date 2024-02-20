@@ -1,0 +1,15 @@
+1. just select all names from songs
+
+2. same as before but use ORDER BY
+
+3. opposite order by and limit command to only output first five
+
+4. all names with 3 conditions using WHERE
+
+5. use AVG() function
+
+6. needed hint but had to link two tables using secondary key of artist_id
+
+7. same as previous with AVG() function
+
+8. use LIKE command
